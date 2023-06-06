@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valam-project/static/css/main.2a77e10d.css",
+    "main.js": "/valam-project/static/js/main.07be5cf4.js",
+    "static/js/787.a1d49b63.chunk.js": "/valam-project/static/js/787.a1d49b63.chunk.js",
+    "index.html": "/valam-project/index.html",
+    "main.2a77e10d.css.map": "/valam-project/static/css/main.2a77e10d.css.map",
+    "main.07be5cf4.js.map": "/valam-project/static/js/main.07be5cf4.js.map",
+    "787.a1d49b63.chunk.js.map": "/valam-project/static/js/787.a1d49b63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a77e10d.css",
+    "static/js/main.07be5cf4.js"
+  ]
+}
